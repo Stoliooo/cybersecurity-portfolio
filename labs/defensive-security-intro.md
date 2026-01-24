@@ -13,7 +13,7 @@ who intend on exploiting systems.
 ## Steps Taken
 1. Learned what defensive security is.
 2. Explored different terms involved with defensive security.
-3. 
+3. Simulated handling threats using a SIEM system
 
 ## Key Things Learned
 1. A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events,
