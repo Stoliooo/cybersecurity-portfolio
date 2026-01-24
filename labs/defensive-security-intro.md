@@ -15,7 +15,7 @@ who intend on exploiting systems.
 2. Explored different terms involved with defensive security.
 3. 
 
-## Key Concepts Learned
+## Key Things Learned
 1. A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events,
 be it vulnerabilities, policy violations, unauthorized activity, or network intrustion.
 
@@ -30,7 +30,7 @@ such as a misconfiguration, an intrusion attempt, or a policy violation.  Incide
 The aim is to reduce damage and recover in the shortest time possible. Ideally, you would develop a plan that is ready for incident response. The process is:
 (Preparation, Detection and Analysis, Containment, Eradication and Recovery, and Post-Incident Activity)
 
-5. Malware analysis aims to learn about such malicious programs using various means - Static analysis inspects the program without running it, Dynamic analysis is 
+5. Malware analysis aims to learn about such malicious programs using various means - Static analysis inspects the program without running it, and dynamic analysis is 
 done by running it.
 
 6. There are many open-source databases out there, like AbuseIPDB, and Cisco Talos Intelligence, 
