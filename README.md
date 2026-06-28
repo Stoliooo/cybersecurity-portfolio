@@ -10,7 +10,11 @@ documented analysis, and real-world defensive thinking.
 - SIEM alert triage (TryHackMe simulation)
 
 ## Labs & Case Studies
-(Coming next)
+
+| Lab | Category | Date |
+|-----|----------|------|
+| [Introduction to Offensive Security](./labs/offensive-security-intro.md) | Offensive | Jan 2026 |
+| [Introduction to Defensive Security](./labs/defensive-security-intro.md) | Defensive | Jan 2026 |
 
 ## Tools
 - TryHackMe
