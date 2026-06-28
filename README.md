@@ -4,11 +4,10 @@
 Building hands-on cybersecurity and IT foundations with practical labs,
 documented analysis, and real-world defensive thinking.
 
-## Skills (in progress)
-- Linux fundamentals
-- Networking basics
-- Security concepts
-- Reconnaissance and scanning
+## Skills
+- Linux fundamentals (TryHackMe — actively practicing)
+- Network reconnaissance (Gobuster, Nmap)
+- SIEM alert triage (TryHackMe simulation)
 
 ## Labs & Case Studies
 (Coming next)
